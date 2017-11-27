@@ -1,15 +1,28 @@
-<navs>
-  <ul class="home">
-    <li v-for="item in home">{{item}}</li>
-  </ul>
-</navs>
+<template>
+  <div>
+  <ul><li v-for="item in home">{{item}}: <input type="text" v-on:ddd="changess" v-model="total"></li></ul>
+  <inputs :totals="total" ></inputs>
+  </div>
+</template>
 <script>
+  import inputs from './input'
   export default {
     name:'home',
     data:function () {
       return {
-        home:['最新','热门','评分','分类']
+        home:['最新','热门','评分','分类'],
+        total: 10
       }
+    },
+    methods:{
+      changess:function(val){
+
+        console.log(val)
+        this.total=val;
+      }
+    },
+    components:{
+      inputs,
     }
   }
 </script>
