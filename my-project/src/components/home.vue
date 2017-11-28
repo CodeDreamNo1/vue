@@ -1,7 +1,7 @@
 <template>
   <div>
-  <ul><li v-for="item in home">{{item}}: <input type="text" v-on:ddd="changess" v-model="total"></li></ul>
-  <inputs :totals="total" ></inputs>
+  <ul><li v-for="item in home">{{item}}:<input type='radio' v-model="checked"> <input type="text" v-model="total"></li></ul>
+  <inputs :totals="total"  v-on:ddd="changess"></inputs>
   </div>
 </template>
 <script>
@@ -11,13 +11,12 @@
     data:function () {
       return {
         home:['最新','热门','评分','分类'],
-        total: 10
+        total: 10,
+        checked:false,
       }
     },
     methods:{
       changess:function(val){
-
-        console.log(val)
         this.total=val;
       }
     },

@@ -1,25 +1,31 @@
 <template>
   <div class="inputs"><span>{{datas}}</span>
-  <input type="text" @change="find" v-model="totals">
+  <input type="text"  v-model="total">
   </div>
 </template>
 <script>
 export default {
   name: 'inputs',
   props: {
-    value : [Number, String]
+    totals : [Number, String],
   },
-  data(){
+  computed:{
+    total: {
+      set: function(val) {
+        this.$emit('ddd',val)
+      },
+      get: function() {
+        return this.totals;
+      }
+    }
+  },
+  data:function(){
     return{
-      datas:'修改',
-      totals:this.totals
+      datas:'修改'
     }
   },
   methods:{
-    find:function(){
-      console.log(this.totals)
-      this.$emit('ddd',this.totals)
-    }
+
   }
 
 }
