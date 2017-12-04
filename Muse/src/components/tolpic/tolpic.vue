@@ -7,10 +7,10 @@
   </mu-tabs>
 </template>
 <script>
-  import light from '!raw!muse-ui/dist/theme-default.css'
-  import dark from '!raw!muse-ui/dist/theme-dark.css'
-  import carbon from '!raw!muse-ui/dist/theme-carbon.css'
-  import teal from '!raw!muse-ui/dist/theme-teal.css'
+  import light from 'raw-loader!muse-ui/dist/theme-default.css'
+  import dark from 'raw-loader!muse-ui/dist/theme-dark.css'
+  import carbon from 'raw-loader!muse-ui/dist/theme-carbon.css'
+  import teal from 'raw-loader!muse-ui/dist/theme-teal.css'
   export default {
     data () {
       return {

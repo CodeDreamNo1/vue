@@ -8,50 +8,12 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const FriendlyErrorsPlugin = require('friendly-errors-webpack-plugin')
 const portfinder = require('portfinder')
 const path = require('path')
-// const museUiThemePath = path.join(
-//   __dirname,
-//   'node_modules',
-//   'muse-ui',
-//   'src/styles/themes/variables/default.less'
-// )
 const devWebpackConfig = merge(baseWebpackConfig, {
   module: {
     rules: utils.styleLoaders({ sourceMap: config.dev.cssSourceMap, usePostCSS: true }),
-    // loaders: [
-    //   {
-    //     test: /muse-ui.src.*?js$/,
-    //     loader: 'babel'
-    //   },
-    //   {
-    //     test: /\.vue$/,
-    //     loader: 'vue-loader',
-    //     options: {
-    //       loaders: {
-    //         less: [
-    //           'vue-style-loader',
-    //           'css-loader',
-    //           {
-    //             loader: 'less-loader',
-    //             options: {
-    //               globalVars: {
-    //                 museUiTheme: `'${museUiThemePath}'`,
-    //               }
-    //             }
-    //           }
-    //         ]
-    //       }
-    //     }
-    //   }
-    // ]
-  },
-  resolve: {
-    alias: {
-      'muse-components': 'muse-ui/src'
-    }
   },
   // cheap-module-eval-source-map is faster for development
   devtool: config.dev.devtool,
-
   // these devServer options should be customized in /config/index.js
   devServer: {
     clientLogLevel: 'warning',

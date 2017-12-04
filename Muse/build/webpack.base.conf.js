@@ -7,7 +7,6 @@ const vueLoaderConfig = require('./vue-loader.conf')
 function resolve (dir) {
   return path.join(__dirname, '..', dir)
 }
-
 module.exports = {
   context: path.resolve(__dirname, '../'),
   entry: {
@@ -25,6 +24,7 @@ module.exports = {
     alias: {
       'vue$': 'vue/dist/vue.esm.js',
       '@': resolve('src'),
+      'muse-components': 'muse-ui/src'
     }
   },
   module: {
@@ -33,6 +33,10 @@ module.exports = {
         test: /\.vue$/,
         loader: 'vue-loader',
         options: vueLoaderConfig
+      },
+      {
+        test: /muse-ui.src.*?js$/,
+        loader: 'babel-loader'
       },
       {
         test: /\.js$/,

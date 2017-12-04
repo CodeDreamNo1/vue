@@ -1,10 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="50314543-b638-47bd-8fcb-afb9a892eb69" name="Default" comment="">
+    <list default="true" id="ce2649ca-6c65-4776-b006-dfe63710b106" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/.postcssrc.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/build/build.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/build/check-versions.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/build/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/build/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/build/vue-loader.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/build/webpack.base.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/build/webpack.dev.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/build/webpack.prod.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/config/dev.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/config/prod.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/config/test.env.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/src/App.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/src/assets/back.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/src/assets/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/src/components/btn/btn.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/src/components/home.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/src/components/input.vue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/src/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/src/router/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/static/.gitkeep" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/test/unit/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/test/unit/jest.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/test/unit/setup.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/my-project/test/unit/specs/HelloWorld.spec.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-project/src/components/home.vue" afterPath="$PROJECT_DIR$/my-project/src/components/home.vue" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/my-project/src/components/input.vue" afterPath="$PROJECT_DIR$/my-project/src/components/input.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Muse/build/webpack.base.conf.js" afterPath="$PROJECT_DIR$/Muse/build/webpack.base.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Muse/build/webpack.dev.conf.js" afterPath="$PROJECT_DIR$/Muse/build/webpack.dev.conf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Muse/package.json" afterPath="$PROJECT_DIR$/Muse/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Muse/src/components/tolpic/tolpic.vue" afterPath="$PROJECT_DIR$/Muse/src/components/tolpic/tolpic.vue" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Muse/src/main.js" afterPath="$PROJECT_DIR$/Muse/src/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Muse/src/router/index.js" afterPath="$PROJECT_DIR$/Muse/src/router/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,74 +54,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="home.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-project/src/components/home.vue">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Muse/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-project/build/build.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-492">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="246">
+              <caret line="6" column="50" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="50" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-project/src/main.js">
+        <entry file="file://$PROJECT_DIR$/Muse/src/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            <state relative-caret-position="205">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="e#140#161#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.base.conf.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Muse/build/webpack.base.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="410">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="utils.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Muse/build/utils.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1845">
+              <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.dev.conf.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Muse/build/webpack.dev.conf.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="205">
+              <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tolpic.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Muse/src/components/tolpic/tolpic.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="779">
+              <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+              <folding>
+                <element signature="e#272#333#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-project/config/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="input.vue" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/my-project/src/components/input.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="btn.vue" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-project/src/components/btn/btn.vue">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my-project/src/router/index.js">
+        <entry file="file://$PROJECT_DIR$/Muse/src/router/index.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="328">
-              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Muse/config/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-123">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.vue" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Muse/src/components/home.vue">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-369">
+              <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -101,8 +162,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>component</find>
-      <find>totals</find>
+      <find>@</find>
+      <find>muse-components</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -111,16 +172,17 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/my-project/src/components/home.html" />
-        <option value="$PROJECT_DIR$/my-project/src/components/btn/btn.html" />
-        <option value="$PROJECT_DIR$/my-project/src/components/btn/btn.vue" />
-        <option value="$PROJECT_DIR$/my-project/src/main.js" />
-        <option value="$PROJECT_DIR$/my-project/src/App.vue" />
-        <option value="$PROJECT_DIR$/my-project/src/components/nav.vue" />
-        <option value="$PROJECT_DIR$/my-project/src/components/HelloWorld.vue" />
-        <option value="$PROJECT_DIR$/my-project/src/router/index.js" />
-        <option value="$PROJECT_DIR$/my-project/src/components/input.vue" />
-        <option value="$PROJECT_DIR$/my-project/src/components/home.vue" />
+        <option value="$PROJECT_DIR$/Muse/index.html" />
+        <option value="$PROJECT_DIR$/Muse/src/components/tolpic/tolpic.html" />
+        <option value="$PROJECT_DIR$/Muse/package.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/Muse/src/components/tolpic/tolpic.vue" />
+        <option value="$PROJECT_DIR$/Muse/src/main.js" />
+        <option value="$PROJECT_DIR$/Muse/build/vue-loader.conf.js" />
+        <option value="$PROJECT_DIR$/Muse/build/webpack.base.conf.js" />
+        <option value="$PROJECT_DIR$/Muse/src/router/index.js" />
+        <option value="$PROJECT_DIR$/Muse/src/components/home.vue" />
+        <option value="$PROJECT_DIR$/Muse/build/webpack.dev.conf.js" />
       </list>
     </option>
   </component>
@@ -131,16 +193,14 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/my-project/node_modules" />
-    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Muse/node_modules" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="95" />
-    <option name="y" value="145" />
-    <option name="width" value="1924" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
     <option name="height" value="1056" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -156,8 +216,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -168,52 +226,52 @@
             <path>
               <item name="vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Muse" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Muse" type="462c0819:PsiDirectoryNode" />
               <item name="build" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Muse" type="462c0819:PsiDirectoryNode" />
               <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Muse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Muse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Muse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Muse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="btn" type="462c0819:PsiDirectoryNode" />
+              <item name="tolpic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vue" type="b2602c69:ProjectViewProjectNode" />
               <item name="vue" type="462c0819:PsiDirectoryNode" />
-              <item name="my-project" type="462c0819:PsiDirectoryNode" />
+              <item name="Muse" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="router" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -221,19 +279,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/vagrants/NovaCareHotel" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="nodejs_interpreter_path" value="D:/node/node" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\vue\my-project\src\assets" />
-    </key>
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="D:/vagrants/SmartNovaCare" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -252,33 +307,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="50314543-b638-47bd-8fcb-afb9a892eb69" name="Default" comment="" />
-      <created>1511313089059</created>
+      <changelist id="ce2649ca-6c65-4776-b006-dfe63710b106" name="Default" comment="" />
+      <created>1512113259602</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1511313089059</updated>
-      <workItem from="1511313090637" duration="2239000" />
-      <workItem from="1511317147875" duration="3277000" />
-      <workItem from="1511322723200" duration="10265000" />
-      <workItem from="1511397995317" duration="16564000" />
-      <workItem from="1511743252513" duration="20374000" />
-      <workItem from="1511828922727" duration="12177000" />
+      <updated>1512113259602</updated>
+      <workItem from="1512113277952" duration="383000" />
+      <workItem from="1512113690995" duration="7503000" />
+      <workItem from="1512348161272" duration="17202000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64896000" />
+    <option name="totallyTimeSpent" value="25088000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24682875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27272728" sideWeight="0.50422835" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5021142" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27272728" sideWeight="0.49577168" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19640853" sideWeight="0.49788582" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -297,365 +349,299 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/home.vue">
+    <entry file="file://$PROJECT_DIR$/Muse/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="246">
+          <caret line="6" column="50" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="50" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/input.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/btn/btn.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1271">
-          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/btn/btn.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="10" column="5" lean-forward="false" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/input.vue">
+    <entry file="file://$PROJECT_DIR$/Muse/src/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="11" column="2" lean-forward="true" selection-start-line="11" selection-start-column="2" selection-end-line="11" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="5" column="33" lean-forward="true" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
           <folding>
-            <element signature="e#0#21#0" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/config/dev.env.js">
+    <entry file="file://$PROJECT_DIR$/Muse/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        <state relative-caret-position="246">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <marker date="1512374040276" expanded="true" signature="368:1490" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+            <marker date="1512374040276" expanded="true" signature="1505:1556" ph="{&quot;node&quot;: &quot;&gt;= 4.0.0&quot;...}" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/home.vue">
+    <entry file="file://$PROJECT_DIR$/Muse/build/webpack.base.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        <state relative-caret-position="1066">
+          <caret line="26" column="26" lean-forward="false" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/input.vue">
+    <entry file="file://$PROJECT_DIR$/Muse/build/webpack.dev.conf.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1148">
-          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        <state relative-caret-position="2009">
+          <caret line="49" column="5" lean-forward="true" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="2" column="29" lean-forward="false" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/App.vue">
+    <entry file="file://$PROJECT_DIR$/Muse/src/components/tolpic/tolpic.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
           <caret line="8" column="8" lean-forward="false" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-          <folding />
+          <folding>
+            <element signature="e#272#333#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/index.html">
+    <entry file="file://$PROJECT_DIR$/Muse/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="533">
-          <caret line="16" column="21" lean-forward="false" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        <state relative-caret-position="123">
+          <caret line="3" column="8" lean-forward="false" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/config/dev.env.js">
+    <entry file="file://$PROJECT_DIR$/Muse/src/components/home.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/home.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+        <state relative-caret-position="1476">
+          <caret line="36" column="22" lean-forward="true" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/input.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1148">
-          <caret line="28" column="5" lean-forward="true" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/config/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="656">
-          <caret line="16" column="15" lean-forward="false" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="9" column="9" lean-forward="false" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="4" column="8" lean-forward="true" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/router/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/.postcssrc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/.editorconfig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/.babelrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/config/dev.env.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/build/logo.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/build/webpack.dev.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/App.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="738">
-          <caret line="18" column="17" lean-forward="false" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/btn/btn.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/build/vue-loader.conf.js">
+    <entry file="file://$PROJECT_DIR$/Muse/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="369">
-          <caret line="15" column="41" lean-forward="true" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/build/webpack.base.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-492">
-          <caret line="42" column="29" lean-forward="true" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/config/index.js">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <caret line="0" column="10" lean-forward="true" selection-start-line="0" selection-start-column="10" selection-end-line="0" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/main.js">
+    <entry file="file://$PROJECT_DIR$/Muse/src/App.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="2" column="29" lean-forward="true" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/build/build.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-492">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/router/index.js">
+    <entry file="file://$PROJECT_DIR$/Muse/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/webpack.config.js" />
+    <entry file="file://$PROJECT_DIR$/Muse/build/webpack.prod.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4551">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/Muse/build/check-versions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1599">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/config/prod.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/build/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1390">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/.postcssrc.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="6" column="14" lean-forward="false" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+          <folding>
+            <marker date="1512374040276" expanded="true" signature="368:1490" ph="{&quot;autoprefixer&quot;: &quot;^7.1.2&quot;...}" />
+            <marker date="1512374040276" expanded="true" signature="1505:1556" ph="{&quot;node&quot;: &quot;&gt;= 4.0.0&quot;...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/src/App.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/config/dev.env.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/study/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="6" column="50" lean-forward="false" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/src/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#140#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/build/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1845">
+          <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/build/webpack.dev.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="5" column="56" lean-forward="true" selection-start-line="5" selection-start-column="56" selection-end-line="5" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/src/router/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="328">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/home.vue">
+    <entry file="file://$PROJECT_DIR$/Muse/config/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="7" column="30" lean-forward="true" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        <state relative-caret-position="-123">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my-project/src/components/input.vue">
+    <entry file="file://$PROJECT_DIR$/Muse/src/components/home.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        <state relative-caret-position="-369">
+          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/src/components/tolpic/tolpic.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="779">
+          <caret line="19" column="15" lean-forward="true" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="e#272#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/build/vue-loader.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Muse/build/webpack.base.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="410">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
           <folding />
         </state>
       </provider>
